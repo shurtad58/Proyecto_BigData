@@ -18,3 +18,6 @@ Algoritmo que permite agrupar documentos similares en un número de k clusters. 
 - PuTTY
 - Dataset recomendados para proyecto 4
 
+## jupyter
+
+![image](https://user-images.githubusercontent.com/30469862/69418230-481c9480-0ce8-11ea-94ed-3154af524e37.png)
