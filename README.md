@@ -12,9 +12,9 @@ Algoritmo que permite agrupar documentos similares en un número de k clusters. 
 
 ## Recursos utilizados
 
-Python 3
-Spark 
-Jupyter
-PuTTY
-Dataset recomendados para proyecto 4
+- Python 3
+- Spark 
+- Jupyter
+- PuTTY
+- Dataset recomendados para proyecto 4
 
